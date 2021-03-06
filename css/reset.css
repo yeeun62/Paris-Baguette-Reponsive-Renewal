@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;color:inherit}
+ul,ol,li{list-style: none}
+/*텍스트 관련*/
+h1,h2,h3,h4,h5,h6{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1;
+}
+body{line-height: 1}
+
+address{font-style: normal}
+/*테이블 관련 */
+table{border-collapse: collapse}
+caption{display: none}
+/*폼관련*/
+fieldset{border:none}
+legend{display: none}
+input{box-sizing: border-box; vertical-align: middle}
+
+
+/*float관련*/
+.clearfix::after{content: '';display: block;width: 0;height: 0;clear:both;}
+
+/*image*/
+img{vertical-align: middle;}

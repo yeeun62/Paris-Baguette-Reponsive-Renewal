@@ -1,0 +1,15 @@
+제이쿼리 cdn
+======================================
+
+<!-- 제이쿼리 라이브러리 -->
+<script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+<!-- 제이쿼리 ui-->
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+
+======================================
+https://developers.google.com/speed/libraries/#jquery
+
+<!-- 제이쿼리 라이브러리 -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- 제이쿼리 ui-->
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
